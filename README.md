@@ -65,26 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryanAyyu&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=AryanAyyu&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AryanAyyu&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-furl03cyd.vercel.app/?username=AryanAyyu&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanAyyu&theme=tokyo-night"/>
