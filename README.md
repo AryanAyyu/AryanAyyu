@@ -20,16 +20,18 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AryanAyyu&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 About Me
-
 - 🎓 B.Tech CSE @ Bennett University  
 - 💻 Full Stack Developer (MERN + Java Backend)  
-- 🔥 Built real-world projects like **UrbanVibe**  
+- 🔥 Built real-world products like **UrbanVibe**  
 - 🧠 Solved **1000+ LeetCode problems**  
-- ☁️ Deployed apps on **Vercel, Netlify, Render, Firebase**  
-- 🏆 Passionate about scalable & clean systems  
+- ☁️ Deployed apps on **Vercel, Netlify, Render, Firebase**
 
 ---
 
@@ -66,19 +68,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanAyyu&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanAyyu&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryanAyyu&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=AryanAyyu&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAyyu&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AryanAyyu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanAyyu&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanAyyu&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -90,9 +92,6 @@
 
 ---
 
-## 💡 Quote
-> “Code is not just written — it is engineered.”
-
----
+> 💡 “Code is not just written — it is engineered.”
 
 ⭐ If you like my work, consider giving a star!
