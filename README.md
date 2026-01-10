@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Java | Cloud | UI/UX</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | JavaScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-srivastava-ftp/">
@@ -30,7 +30,7 @@
 - 🎓 B.Tech CSE @ Bennett University  
 - 💻 Full Stack Developer (MERN + Java Backend)  
 - 🔥 Built real-world products like **UrbanVibe**  
-- 🧠 Solved **1000+ LeetCode problems**  
+- 🧠 Solved **200+ LeetCode problems**  
 - ☁️ Deployed apps on **Vercel, Netlify, Render, Firebase**
 
 ---
